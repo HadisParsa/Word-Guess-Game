@@ -48,7 +48,7 @@ Application have following criteria:
 
 
 ## Link
-You can experience the deployed project here: [Word Guess URL ]().
+You can experience the deployed project here: [Word Guess URL ](https://hadisparsa.github.io/Word-Guess-Game/).
 
 
 ## The following demo shows the web application's appearance and functionality:
